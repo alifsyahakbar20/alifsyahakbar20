@@ -58,9 +58,7 @@
 
 ###
 
-<div align="center">
-  <img height="625" src="https://i.pinimg.com/originals/48/09/4c/48094c88751550011afbe2b2a6c47a5b.gif"  />
-</div>
+<img src="https://raw.githubusercontent.com/alifsyahakbar20/alifsyahakbar20/output/snake.svg" alt="Snake animation" />
 
 ###
 
