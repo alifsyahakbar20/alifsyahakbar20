@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi! My name is Alif Syah Akbar, and I'm a web developer from Indonesia.</h2>
+<h2 align="center">👋 Hi! My name is Alif Syah Akbar,<br>I'm a web developer from Indonesia.</h2>
 
 ###
 
@@ -50,15 +50,9 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alifsyahakbar20/alifsyahakbar20/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alifsyahakbar20/alifsyahakbar20/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alifsyahakbar20/alifsyahakbar20/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/alifsyahakbar20/alifsyahakbar20/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="625" src="https://i.pinimg.com/originals/48/09/4c/48094c88751550011afbe2b2a6c47a5b.gif"  />
+</div>
 
 ###
 
