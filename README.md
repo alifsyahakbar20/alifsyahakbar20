@@ -1,47 +1,71 @@
-<!-- 🌸 Anime Banner -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/9b/4a/09/9b4a09dcd142702cb92784d9b882c8db.gif" width="600" alt="Anime Coding Banner">
-</p>
+<h2 align="center">👋 Hi! My name is Alif Syah Akbar, and I'm a web developer from Indonesia.</h2>
 
-<h1 align="center">👋 Hai, aku Alif!</h1>
-<p align="center">
-  <em>Seorang developer yang kadang ngoding, kadang rebahan, kadang nunggu bug-nya pergi sendiri 💤</em>
-</p>
+###
 
----
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=alifsyahakbar20&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=alifsyahakbar20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
 
-### 🧠 Tentang Aku
-- 🌱 Lagi belajar: **Next.js, Laravel, dan Supabase**
-- 💻 Bahasa favorit: **PHP, JavaScript**
-- ⚡ Fun fact: Aku percaya kalau `console.log()` adalah sahabat sejati.
-- 🍵 Mood booster: Matcha latte + playlist lo-fi + terminal yang nggak error.
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="33" alt="html5 logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="33" alt="css3 logo"  />
+  <img width="18" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="33" alt="javascript logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="33" alt="typescript logo"  />
+  <img width="18" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="33" alt="php logo"  />
+  <img width="18" />
+  <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="33" alt="codeigniter logo"  />
+  <img width="18" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="33" alt="laravel logo"  />
+  <img width="18" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="33" alt="nextjs logo"  />
+  <img width="18" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="33" alt="tailwindcss logo"  />
+  <img width="18" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="33" alt="supabase logo"  />
+  <img width="18" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="33" alt="mysql logo"  />
+</div>
 
-### 🚀 Teknologi yang Sering Kupakai
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,laravel,react,nextjs,html,css,tailwind,git,vscode" />
-</p>
+###
 
----
+<div align="left">
+  <a href="https://www.instagram.com/syaahri_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=@Syaahri_&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=@Vivy&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="mailto:alifsyahakbar20@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=alifsyahakbar20&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://id.linkedin.com/in/alif-syah-akbar-641579315" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Alif%20Syah%20Akbar&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-### 🐱‍💻 Statistik Ngoding
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alifsyah&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsyah&layout=compact&theme=tokyonight" height="160" />
-</p>
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alifsyahakbar20/alifsyahakbar20/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alifsyahakbar20/alifsyahakbar20/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alifsyahakbar20/alifsyahakbar20/output/pacman-contribution-graph.svg">
+</picture>
 
-### 💬 Quotes Hari Ini
-> “Code dulu, refactor nanti. Kadang nanti itu nggak pernah datang.” 😅
+###
 
----
+<div align="center">
+  <img height="625" src="https://i.pinimg.com/originals/48/09/4c/48094c88751550011afbe2b2a6c47a5b.gif"  />
+</div>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/b7/9a/4e/b79a4e4e7c7b505e4e8a179d0ee99ab8.gif" width="400" alt="Anime waving">
-</p>
+###
 
-<p align="center">
-  🌸 Thanks for visiting my GitHub profile! 🌸
-</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alifsyahakbar20.alifsyahakbar20&"  />
+</div>
+
+###
