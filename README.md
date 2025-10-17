@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi! My name is Alif Syah Akbar,<br>I'm a web developer from Indonesia.</h2>
+<h2 align="center">👋 Hi! My name is Alif Syah Akbar</h2>
 
 ###
 
