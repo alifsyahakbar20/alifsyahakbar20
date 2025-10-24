@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img height="625" width="100%" src="vibe-coding.gif"  />
+</div>
+
 <h2 align="left">👋 Hi! My name is Alif Syah Akbar</h2>
 
 ###
