@@ -5,7 +5,7 @@
 
 <h2 align="left">🙏 I’m Alif Syah Akbar</h2>
 
-<p>Hey there! I’m Alif — a Full Stack Web Developer who loves turning ideas into real, functional, and user-friendly websites. I enjoy working on both the frontend and backend, from designing clean interfaces to making sure everything runs smoothly behind the scenes.
+<p>Hey there! I’m Alif a Full Stack Web Developer who loves turning ideas into real, functional, and user-friendly websites. I enjoy working on both the frontend and backend, from designing clean interfaces to making sure everything runs smoothly behind the scenes.
 
 Right now, I’m focusing on improving my skills, exploring new tech, and building personal projects while looking for new opportunities to grow and collaborate.</p>
 
